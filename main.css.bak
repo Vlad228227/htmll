@@ -1,0 +1,62 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body {
+	background-color:black;
+}
+h1{
+	color:white;
+	font-size:70px;
+	padding-top:150px;
+}
+footer{
+	color:white;
+	font-size:15px;
+	text-align:center;
+	background-color:black
+}
+.quote{
+	background-image:url(addons/aleksandr.jpg);
+	background-size:cover;
+	height:600px;
+	text-align:center
+}
+.quote p{
+	padding-top:100px;
+	font-size:30px;
+	color:white;
+	text-shadow:2px 2px 2px black;
+}
+.about {
+	background-color:black;
+	color:white;
+	margin:50px;
+	padding-left:100px;
+	padding-right:100px;
+	font-size:25px;
+	text-indent:30px;
+	line-height:40px;
+	text-align:justify;
+}
+.navigation {
+	background-color:black;
+	list-style-type:none;
+	display:flex;
+}
+.navigation li{margin:10px; }
+
+.navigation a { 
+	text-decoration:none;
+	color:white;
+}
+h2 {
+	font-size:50px;
+	color:white;
+	text-align:center;
+}
+form {
+	margin: 50px;
+	font-size:30px;
+	text-align:center;
+}
